@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="button">Play Again</string>
+    <string name="circle">Circle has Won</string>
+    <string name="cross">Cross has Won</string>
+    <string name="draw">Its a draw</string>
+    <string name="text">Created by Vaibhav Shaw</string>
+</resources>
